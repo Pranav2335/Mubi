@@ -847,7 +847,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/MatRixBotzTG')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/Prv_35')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help2'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -890,7 +890,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help2":
         buttons = [[                               
-            InlineKeyboardButton('❄️ Mᴏʀᴇ Fᴇᴀᴛᴜʀᴇꜱ ❄️', callback_data='help')  
+            InlineKeyboardButton('⚙️ Mᴏʀᴇ Fᴇᴀᴛᴜʀᴇꜱ ⚙️', callback_data='help')  
             ],[
             InlineKeyboardButton('Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ', callback_data='manuelfilter'),
             InlineKeyboardButton('Aᴜᴛᴏ Fɪʟᴛᴇʀ', callback_data='autofilter')
@@ -952,7 +952,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('SOURCE CODE', url='https://github.com/matrixbotz0/PETER-PARKER-BOT')
+            InlineKeyboardButton('SOURCE CODE', url='https://t.me/Owner_PM_Bot')
             ],[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
         ]]
@@ -1097,7 +1097,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("«𝙱𝙰𝙲𝙺", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/MatRixBotz_TG")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Owner_PM_Bot")
                   ]]
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
