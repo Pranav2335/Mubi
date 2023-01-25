@@ -13,7 +13,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/matrixbotz0/PETER-PARKER-BOT>𝐏𝐄𝐓𝐄𝐑-𝐏𝐀𝐑𝐊𝐄𝐑-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/MatRixBotz_TG>𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇𝗧𝗚</a>"""
+- 𝙳𝚎𝚟 1<a href=https://t.me/Owner_PM_Bot>𝘼𝘿𝙈𝙄𝙉</a>"""
 
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
