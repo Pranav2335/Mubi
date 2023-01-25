@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/MatRixBotzTG https://t.me/MatRixBotzTG</code>
+<code>/batch https://t.me/Owner_PM_Bot https://t.me/Owner_PM_Bot</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MatRixBotzTG><b>𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇𝗧𝗚</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Owner_PM_Bot><b>𝘼𝘿𝙈𝙄𝙉</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/MatRixBotzTG>MatRixBotzTG</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Owner_PM_Bot>𝘼𝘿𝙈𝙄𝙉</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
