@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝚅-𝙱𝙾𝚃 ꪜ3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/matrixbotz0/PETER-PARKER-BOT>𝐏𝐄𝐓𝐄𝐑-𝐏𝐀𝐑𝐊𝐄𝐑-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/Owner_PM_Bot>ρ𝘳ꪖꪀꪖꪜ</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/Owner_PM_Bot>𝘼𝘿𝙈𝙄𝙉</a>"""
