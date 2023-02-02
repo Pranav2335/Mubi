@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  gh repo clone https://github.com/Pranav2335/IMDB-prvbot.git /IMDB-prvbot
+  gh repo clone Pranav2335/IMDB-prvbot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /IMDB-prvbot
