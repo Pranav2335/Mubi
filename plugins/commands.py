@@ -38,13 +38,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention, message.from_user.username, temp.U_NAME))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='t.me/kmtz_channel_v3')
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🤖 ᴜᴩᴅᴀᴛᴇꜱ', url='t.me/kmtz_channel_v3')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help2'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('💣 ʜᴇʟᴘ💣', callback_data='help2'),
+            InlineKeyboardButton('🫣 ᴀʙᴏᴜᴛ 🫣', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
