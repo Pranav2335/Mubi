@@ -22,7 +22,7 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[           
-            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/kmtz_channel_v3')
+            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/MJ_LinkZZ')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]]
@@ -41,7 +41,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴩᴅᴀᴛᴇꜱ', url='t.me/kmtz_channel_v3')
+            InlineKeyboardButton('🤖 ᴜᴩᴅᴀᴛᴇꜱ', url='t.me/MJ_LinkZZ')
             ],[
             InlineKeyboardButton('💣 ʜᴇʟᴘ💣', callback_data='help2'),
             InlineKeyboardButton('🫣 ᴀʙᴏᴜᴛ 🫣', callback_data='about')
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 ꜱᴇᴀʀᴄʜ 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 ᴜᴩᴅᴀᴛᴇꜱ 📢", url="https://t.me/kmtz_channel_v3")
+            InlineKeyboardButton("📢 ᴜᴩᴅᴀᴛᴇꜱ 📢", url="https://t.me/MJ_LinkZZ")
             ],[      
             InlineKeyboardButton("ℹ️ ʜᴇʟᴘ ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 ᴀʙᴏᴜᴛ 💫", callback_data="about")
